@@ -1,10 +1,10 @@
 [
     {
-        "package": "SlidesTools",
-        "url": "https://github.com/igrave/SlidesTools"
+        "package": "ladder",
+        "url": "https://github.com/igrave/ladder"
     },
     {
-        "package": "SlidesTools.flextable",
-        "url": "https://github.com/igrave/SlidesTools.tables"
+        "package": "ladder.api",
+        "url": "https://github.com/igrave/ladder.api"
     }
 ]
