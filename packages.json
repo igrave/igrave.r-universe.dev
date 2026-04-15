@@ -6,5 +6,9 @@
     {
         "package": "ladder.api",
         "url": "https://github.com/igrave/ladder.api"
+    },
+    {
+       "package": "icsp2",
+        "url": "https://github.com/igrave/icsp2"
     }
 ]
